@@ -35,7 +35,9 @@ A real-time network monitoring and security analysis tool with WebSocket-based d
 ## 🖥️ Screenshots
 
 ### Main Dashboard
-![Dashboard Preview](IMG_1310.jpeg)
+![Dashboard Preview](IMG_1312.jpeg.IMG_1310.jpeg)
+
+
 
 ### Security Alerts
 ![Alerts Panel](https://via.placeholder.com/800x300?text=Security+Alerts+Panel)
